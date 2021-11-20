@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+#exerciseName {
+  text-align: left;
+  color: blue;
+}
+form {
+  text-align:left;
+  font-weight: normal;
+}
+p {
+  background-color: black;
+  color: white;
+  font-family: arial font-size:22pt;
+}
+body {
+  background-image: url(potato.jpeg);
+  background-size: 25%;
+  background-repeat: repeat;
+}
+a {
+
+}
+#profilePic {
+  width: 200;
+  height: 200;
+
+}
